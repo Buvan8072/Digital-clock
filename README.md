@@ -22,3 +22,4 @@ No external libraries needed (only tkinter which is included with Python)
 
 📸 Preview
 
+<img width="479" height="130" alt="Image" src="https://github.com/user-attachments/assets/55732c83-1fd3-43e8-918a-c1dd7240902d" />
